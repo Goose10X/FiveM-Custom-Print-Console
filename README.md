@@ -1,6 +1,7 @@
 # FiveM Custom Print to Console
 
-This resource allows you to print a custom message to your FiveM "F8" Console to both the Client and Server side. <br>
+Are you a FiveM server owner or developer and want to print a custom message to the F8 console screen during restarts? <br>
+This simple resource will print your custom message to both the server and client side F8 console. <br>
 
 # How to install
 • Download the folder and place it into your FiveM resources folder. <br>
