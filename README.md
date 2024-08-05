@@ -21,4 +21,4 @@ Discord: [Goose10X](https://discord.gg/VKamh4WUV5).
 
 <br>
 
-![unknown (2) (1)](https://github.com/Goose10X/FiveM-BrighterEmergencyLights/assets/116154238/e4c160b6-116d-46d5-b6fc-3be7721cdb87)
+![Screenshot 2024-08-05 163110](https://github.com/user-attachments/assets/ef313f9e-58a0-4e9b-9834-1d0ca66a48d4)
